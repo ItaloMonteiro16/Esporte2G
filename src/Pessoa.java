@@ -49,4 +49,10 @@ public class Pessoa {
     public void setAltura(double altura) {
         this.altura = altura;
     }
+
+    // metodo
+    public String sacar(){
+        return "não sei sacar!";
+    }
+
 }
